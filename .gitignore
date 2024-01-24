@@ -1,1 +1,9 @@
-/code/cmake-build-debug/
+
+/code/*.exe
+/code/*.pptx
+/code/cmake-build-*
+/code/*.o
+/code/*.a
+/code/*.dll
+/code/*.dylib
+/code/*.iml
