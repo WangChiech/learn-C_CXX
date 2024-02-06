@@ -2,6 +2,8 @@
 
 [环境配置](./doc/环境配置.md)
 
+[构建过程]
+
 ## 工具
 
 [compiler explorer](https://godbolt.org/)
