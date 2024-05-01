@@ -1,4 +1,4 @@
-# learn-c
+# learn-C&C++
 
 [环境配置](./doc/环境配置.md)
 
